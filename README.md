@@ -1,24 +1,10 @@
-# myblog-vue
+# myblog-vue前端代码，后端在myBlog那个文件夹里。
 
-## Project setup
+拉去项目后
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
